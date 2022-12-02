@@ -1,0 +1,12 @@
+{
+    "RabbitHost":"tesla",
+    "RabbitPort":5672,
+    "RabbitExchange":"flow-messages",
+    "RabbitQueue":"flow_queue",
+    "Rabbituser":"guest",
+    "Rabbitpass":"guest",
+    "ClickhouseHost":"1.1.1.1",
+    "ClickhousePort":8123,
+    "ClickhouseDBName":"NAME",
+    "CountInsertRow":5000
+}
